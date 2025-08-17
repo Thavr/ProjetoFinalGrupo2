@@ -54,7 +54,3 @@ São Paulo é o maior município do Brasil, com cerca de 12 milhões de habitant
   - Silhouette Score
 - **Redução de Dimensionalidade**: 
   - PCA (Análise de Componentes Principais) para visualização dos clusters formados.
-
----
-
-## 🚀 Como Executar
